@@ -6,7 +6,7 @@ TCC - Joao Vitor Laurentino da Silva Fernandes
 
 Esse repositório contem arquivos referente ao TCC sobre:
 
-Aplicação de Redes Neurais na Análise de Espectro de Frequência para Detecção de Anomalias na Qualidade da Energia Elétrica
+Aplicação de Redes Neurais na Análise de Espectro de Frequência para Detecção de Anomalias na Qualidade da Energia Elétrica.
 
 # OBS:
 O uso de qualquer dado ou Scripts aqui fornecido é de responsabilidade do usuário.
