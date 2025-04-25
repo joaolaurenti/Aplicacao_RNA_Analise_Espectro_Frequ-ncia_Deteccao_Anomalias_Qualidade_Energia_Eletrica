@@ -10,6 +10,7 @@ Aplicação de Redes Neurais na Análise de Espectro de Frequência para Detecç
 
 # OBS:
 O uso de qualquer dado ou Scripts aqui fornecido é de responsabilidade do usuário.
+
 Os códigos aqui mostrados são publicos e podem ser copiados e alterados.
 
 #EM CONSTRUÇÃO...
