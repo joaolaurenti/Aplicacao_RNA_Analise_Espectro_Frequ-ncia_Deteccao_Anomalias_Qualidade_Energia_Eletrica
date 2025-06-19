@@ -13,4 +13,4 @@ O uso de qualquer dado ou Scripts aqui fornecido é de responsabilidade do usuá
 
 Os códigos aqui mostrados são publicos e podem ser copiados e alterados.
 
-#EM CONSTRUÇÃO...
+
